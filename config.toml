@@ -5,6 +5,7 @@ languageCode = "pt-br"
 copyright = "André Van Dal"
 googleAnalytics = "XXX"
 disqusShortname = "derevandal"
+publishDir = "docs"
 
 [Author]
     name = "André Van Dal"
