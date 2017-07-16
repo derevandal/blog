@@ -1,4 +1,4 @@
-baseurl = "https://derevandal.github.io/blog"
+baseurl = "https://derevandal.github.io/blog/"
 title = "André Van Dal"
 theme = "ghostwriter"
 languageCode = "pt-br"
