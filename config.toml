@@ -1,0 +1,53 @@
+baseurl = "https://derevandal.github.io/"
+title = "André Van Dal"
+theme = "ghostwriter"
+languageCode = "pt-br"
+copyright = "André Van Dal"
+googleAnalytics = "XXX"
+disqusShortname = "derevandal"
+
+[Author]
+    name = "André Van Dal"
+    profile = "https://google.com/+AndréVanDalDev"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = true
+    headline = "André Van Dal"
+    description = "Divulgando um pouco a mais de conhecimento"
+    github = "https://github.com/derevandal"
+    linkedin = "https://linkedin.com/in/derevandal/"
+    gplus = "https://google.com/+AndréVanDalDev"
+    twitter = "https://twitter.com/derevandal"
+    email = "deregudegu@example.com"
+    opengraph = true
+    shareTwitter = true
+    shareFacebook = true
+    shareGooglePlus = true
+    shareLinkedIn = false
+    dateFormat = "02/01/2006"
+
+[Permalinks]
+    post = "/:slug/"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 1
+
+[[menu.main]]
+    name = "Projetos"
+    url = "../project.html"
+    weight = 2
+
+[[menu.main]]
+    name = "Contato"
+    url = "../contact.html"
+    weight = 4
+
+[[menu.main]]
+    name = "Sobre"
+    url = "../about.html"
+    weight = 3
